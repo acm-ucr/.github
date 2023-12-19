@@ -1,0 +1,15 @@
+{
+    "name": "acm-ucr organization workflow",
+    "description": "Starter workflow with linting, formatting, and build checks",
+    "categories": [
+        "continuous-integration",
+        "code-quality", 
+        "Javascript",
+        "npm",
+        "React",
+        "Next"
+    ],
+    "filePatterns": [
+        "package.json$",
+    ]
+}
