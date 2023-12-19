@@ -8,8 +8,5 @@
         "npm",
         "React",
         "Next"
-    ],
-    "filePatterns": [
-        "package.json$",
     ]
 }
