@@ -1,5 +1,5 @@
 {
-  "name": "ACM UCR Deploy Next.js on Github Pages",
+  "name": "Deploy Next.js on Github Pages",
   "description": "Starter workflow to deploy Next.js on Github Pages",
   "categories": ["continuous-development", "Javascript", "npm", "React", "Next"]
 }

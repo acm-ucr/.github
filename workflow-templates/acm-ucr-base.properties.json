@@ -1,5 +1,5 @@
 {
-  "name": "ACM UCR Formatting + Linting + Build",
+  "name": "Formatting + Linting + Build",
   "description": "Starter workflow with linting, formatting, and build checks",
   "categories": [
     "continuous-integration",
