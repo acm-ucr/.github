@@ -33,8 +33,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-
       - uses: acm-ucr/images@v2
-      - run: npm ci
-      - run: npm run build
+      - uses: acm-ucr/build@v2
       - run: touch ./.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
