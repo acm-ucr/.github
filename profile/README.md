@@ -2,10 +2,11 @@
 
 This repository hosts coding projects created by ACM members, including tools and applications developed for workshops, hackathons, and real-world use. Our projects span a variety of areas, from websites for UCR organizations and other colleges to tools for hackathon management and website development workflows such as building, formatting, and linting.
 
-💡 About ACM at UCR
+# 💡 About ACM at UCR
+
 The Association for Computing Machinery (ACM) at UC Riverside empowers students to build, learn, and collaborate through hands-on coding experiences. We create projects that solve real problems while fostering technical and professional growth.
 
-📁 What You’ll Find Here
+# 📁 What You’ll Find Here
 - Websites for UCR organizations and partner colleges
 - Hackathon management tools and related projects
 - Website tooling for building, formatting, and linting
